@@ -56,6 +56,3 @@ include('header.php');
         <?php include('cardapio.php'); ?>
     </section>
 </section>
-<!-- TODO:
-Fazer o aside junto com o conteúdo principal e por como display:none
-para quando clicar no menu alterara para display:block com uma animação -->
