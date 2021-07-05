@@ -16,6 +16,8 @@ html, body { height:100%; }
   height:58px;
   color:#FFF;
   background:#d32f2f;
+
+  z-index: 8;
 }
 .header-delivery-content {
   display:flex;
